@@ -1,7 +1,9 @@
 🔢 Task 1: Calculator using HTML, CSS, and JavaScript
 
 📄 Description
+
 A simple and interactive Calculator Web App built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, and ➗ Division. The interface is designed with a modern look.
+
 
  Project Files
  
@@ -10,6 +12,7 @@ A simple and interactive Calculator Web App built with HTML, CSS, and JavaScript
 • 🎨 style.css – Contains the styles for layout and design
 
 • 🧠 script.js – Handles logic and functionality
+
 
 ✨ Features
 
@@ -23,6 +26,7 @@ A simple and interactive Calculator Web App built with HTML, CSS, and JavaScript
 
 • ⚠️ Simple error handling
 
+
 🚀 How to Run
 
 • 📥 Download or clone the project folder
@@ -30,6 +34,7 @@ A simple and interactive Calculator Web App built with HTML, CSS, and JavaScript
 • 💻 Open index.html in any browser
 
 • 🧮 Use the calculator and enjoy!
+
 
 🎨 Customization Ideas
 
